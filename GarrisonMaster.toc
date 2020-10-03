@@ -1,0 +1,11 @@
+## Interface: 83000
+## Version: 0.1
+## Title: Garrison Master
+## Author: Carnivean
+## Notes: Garrison Gold Making Master
+Templates.xml
+Localization.lua
+Base.lua
+GarrisonMaster.lua
+UIConfig.lua
+UICreate.lua
